@@ -1,6 +1,5 @@
 /*
- Student name: Lau cheuk Ning
- Student No.: 3035745051
+ name: Lau cheuk Ning
  Development platform: Mac Os Ubuntu docker image
  Remark:
  1.Process creation and execution- foreground :All features done
@@ -19,7 +18,7 @@
  5.Built-in command: exit: - can Correct use of the exit command;
                            - can report improper usage
  
- remark2-spend around 40 hours on doing this asm, hope i am not getting so many marks deucted for the pipe part
+
  */
 #include<stdio.h>
 #include<string.h>
